@@ -1,5 +1,5 @@
 # Lab Arquivos de script do BootCamp AWS ( IaC )
-##### _Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões_
+### _Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões_
 
 > Neste projeto criamos um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente.
 > Será realizado o upload do arquivo de script no GitHub para futuras reutilizações do script. 
@@ -10,7 +10,7 @@ Tutor: [Denilson Bonatti](https://github.com/denilsonbonatti/).
 ```sh
 cd scrips/
 ./iac1.sh
-;/criar_user.sh
+./criar_user.sh
 ```
 
  
